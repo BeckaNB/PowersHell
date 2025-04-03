@@ -1,2 +1,4 @@
 # Power(s)Hell
-This is where I put all my PowerShell scripts and commands. Some of them are beautifully crafted, while others (especially the msgraph commands) might give you an existential crisis.
+
+I know, I know, there isn't anything here yet.
+Just wait - there is going to be A LOT of epic stuff here soon. I promise. 
