@@ -1,4 +1,7 @@
 # Power(s)Hell
 
-I know, I know, there isn't anything here yet. 😴 </br>
-Just wait - there is going to be A LOT of epic stuff here soon. I promise. 
+Finally I have released my first script here!
+
+### 📂 /PSH_Remoting/
+
+This makes PowerShell remoting inside of Windows Terminal not just easier, but ✨*prettier*✨ too! (PS: uses Powershell 7 / core)
